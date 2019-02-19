@@ -1,3 +1,2 @@
 # Deep-Learning
-Deep Learning Projects Practice
-Practices with Keras.
+Deep Learning Projects Practices of Keras.
